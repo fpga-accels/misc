@@ -5,7 +5,7 @@
 | :--- | :--- |
 | CPU | `i7-10700F` |
 | 操作系统 | `Windows 10 19042` |
-| ModelSim Simulator版本 | `2020.2` |
+| ModelSim Simulator版本 | `2020.4` |
 | Vivado Simulator版本 | `2020.2` |
 | Vitis HLS版本 | `2020.2` |
 | 测试代码 | [dianhsu-cnn-base](https://github.com/fpga-accels/dianhsu-cnn-base) |
